@@ -4,7 +4,7 @@
 #### ° Cristão ✝️
 #### ° Analista de Suporte Técnico TI Jr 👨‍💻
 #### ° CEO/FOUNDER [![Blog](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech.informatic/)
-#### ° Graduado em Redes de Computadores 🎓📚
+#### ° Graduado em Redes de Computadores 🎓
 #### ° Graduando em Analise e Desenvolvimento de Sistemas 5/6📚
 
 [![Blog](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
