@@ -1,5 +1,5 @@
 
-# Olá! Eu Sou o Silanio Moura 👋🧑‍💻
+# Olá! Eu Sou o Silanio Moura 👋
 
 #### ° Cristão ✝️
 #### ° Analista de Suporte Técnico TI Jr 👨‍💻
