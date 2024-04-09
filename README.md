@@ -1,5 +1,5 @@
 
-# Olá! Me Chamo Silanio De Moura Rodrigues👋
+# Olá! Me Chamo Silanio Moura👋
 
 #### ° Cristão ✝️
 #### ° Analista de Suporte Técnico TI Jr 👨‍💻
