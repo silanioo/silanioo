@@ -1,5 +1,5 @@
 
-# Olá! Me Chamo Silanio👋
+# Hello World! my name is silanio👋
    
 [![Blog](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
@@ -7,7 +7,7 @@
 
 ![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"></br>
     <img  align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -21,7 +21,7 @@
     <img  align="center" alt="powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>   
 </div>
 
-## Tecnologias que estou estudando
+## Technologies I'm studying
 
 <div style="display: inline_block"></br>
     <img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
