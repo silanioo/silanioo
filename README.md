@@ -3,8 +3,8 @@
    
 [![Blog](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silaniooo/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silaniooo/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/in/silaniooo/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.tiktok.com/in/silanioooo/)
+[![Blog](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/in/silaniooo/)
+[![Blog](https://img.shields.io/badge/Tiktok-0077B5?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/in/silanioooo/)
 
 ![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
 
