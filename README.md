@@ -41,7 +41,7 @@
     <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
     <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-    <img align="center" alt="docker" src="src="https://devicon-website.vercel.app/api/docker/original.svg""/>
+    <img align="center" alt="docker" src="https://devicon-website.vercel.app/api/docker/original.svg"/>
     <img align="center" alt="" src=""/>
     <img align="center" alt="" src=""/>
     <img align="center" alt="" src=""/>
