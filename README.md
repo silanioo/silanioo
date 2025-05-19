@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
 
-[!silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
+![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
