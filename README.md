@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silanioo/)
 [![Blog](https://img.shields.io/badge/Tiktok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@silanioo)
-[![Blog](https://img.shields.io/badge/Whatsapp-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61577920905749)
+[![Blog](https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61577920905749)
 [![Blog](https://img.shields.io/badge/Whatsapp-00FF7F?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55081998605443)
 
 ![silanioo GitHub stats](https://github-readme-stats.vercel.app/api?username=silanioo&show_icons=true&theme=dracula)
